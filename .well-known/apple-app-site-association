@@ -6,7 +6,7 @@
              "appIDs": [ "3Z89R2M235.io.breakbeat.Jewel" ],
              "components": [
                {
-                  "/": "*",
+                  "/": "*"
                }
              ]
            }
