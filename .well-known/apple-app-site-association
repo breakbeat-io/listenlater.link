@@ -1,15 +1,15 @@
 {
-	"applinks": {
-		"details": [
-			{
-				"appID": "3Z89R2M235.io.breakbeat.Jewel",
-				"components": [
-					{
-						"/": "/share/",
-						"?": { "collection": "?*" }
-					}
-				]
-			}
-		]
-	}
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "3Z89R2M235.io.breakbeat.Jewel" ],
+             "components": [
+               {
+                  "/": "/share/*",
+                  "?": { "collection": "?*" }
+               }
+             ]
+           }
+       ]
+   }
 }
