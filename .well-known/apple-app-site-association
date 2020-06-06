@@ -3,9 +3,9 @@
 		"details": [{
 			"appIDs": ["3Z89R2M235.io.breakbeat.Jewel"],
 			"components": [{
-				"/": "/share/*",
+				"/": "/s/*",
 				"?": { "c": "?*"},
-				"comment": "Matches any URL whose path starts with /share/"
+				"comment": "Matches any URL whose path starts with /s/ and havs a param of c"
 			}]
 		}]
 	}
